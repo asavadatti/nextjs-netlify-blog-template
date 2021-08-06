@@ -1,19 +1,17 @@
 {
   "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "site_title": "Thoughts and Stuff",
+  "site_description": "A blog about nothing",
   "site_keywords": [
-    {
-      "keyword": "Next.js"
-    },
     {
       "keyword": "Netlify"
     },
     {
       "keyword": "React"
-    }
+    },
+    "Product"
   ],
   "posts_per_page": 5,
-  "twitter_account": "@my-account",
-  "github_account": "wutali"
+  "twitter_account": "@asavadatti",
+  "github_account": "asavadatti"
 }
